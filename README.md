@@ -53,6 +53,10 @@ Projet créée dans le cadre du module B5-Java.
 - Choisir le port (entre 1024 et 65535)
 - Choisir le nombre de joueurs réels (entre 0 et 4) -> correspond aux nombre de clients et d'IA
 
+Pour tester avec un client 
+
+`telnet IP PORT`
+
 #Features
 
 - Choix du port
