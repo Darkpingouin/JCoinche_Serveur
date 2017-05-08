@@ -4,7 +4,7 @@ Serveur gérant un jeu de coinche simplifié.
 Projet créée dans le cadre du module B5-Java.
 
 
-#Règles
+# Règles
 
 - Se joue à 4 joueurs (2 équipes de 2 joueurs)
 - La première équipe à atteindre 1000 points à gagné
@@ -25,7 +25,7 @@ Projet créée dans le cadre du module B5-Java.
 | Huit   | 0         | 0      |
 | Sept   | 0         | 0      |
 
-#RFC
+# RFC
 
 - Serveur
 
@@ -46,7 +46,7 @@ Projet créée dans le cadre du module B5-Java.
 | RANG_COLOR     | Envoie au serveur une carte à jouer   |
 | QUIT| Envoie au serveur que le client à quitté sa session |
 
-#Usage
+# Usage
 
 `java -jar jcoinche-server.jar`
 
@@ -57,7 +57,7 @@ Pour tester avec un client
 
 `telnet IP PORT`
 
-#Features
+# Features
 
 - Choix du port
 - IA 
